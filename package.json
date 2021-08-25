@@ -1,0 +1,15 @@
+{
+	"name": "times-square",
+	"version": "0.1.0",
+	"main": "lib/index.js",
+	"license": "MIT",
+	"scripts": {
+		"build": "tsc"
+	},
+	"devDependencies": {
+		"typescript": "^4.3.5"
+	},
+	"files": [
+		"./lib"
+	]
+}
